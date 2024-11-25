@@ -18,4 +18,6 @@ git commit -m "Ajout du formulaire de contact"
 
 git push origin formulaire-contact
 
+git checkout main
+git merge master
 git merge formulaire-contact
